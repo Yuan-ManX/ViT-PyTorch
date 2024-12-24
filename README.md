@@ -1,7 +1,7 @@
 # ViT PyTorch
 
 <p align="center">
-  <img src="ViT.png" alt="ViT" style="display:block; margin:auto; width:750px;" />
+  <img src="ViT.png" alt="ViT" style="display:block; margin:auto; width:650px;" />
 </p>
 
 PyTorch implementation of Vision Transformer (ViT).
